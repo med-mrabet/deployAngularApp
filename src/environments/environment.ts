@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   hmr: false,
-  apiUrl: 'http://localhost:4000'
+  apiUrl: 'https://testwebappapi-testappdevslot-f8e5drf2dbgtdjap.francecentral-01.azurewebsites.net/'
 };
 
 /*
